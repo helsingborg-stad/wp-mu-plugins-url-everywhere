@@ -1,6 +1,6 @@
 {
-    "name": "helsingborg-stad/wpmu-mu-plugins-url-everywhere",
-    "homepage": "https://github.com/helsingborg-stad/wpmu-mu-plugins-url-everywhere",
+    "name": "helsingborg-stad/wp-mu-plugins-url-everywhere",
+    "homepage": "https://github.com/helsingborg-stad/wp-mu-plugins-url-everywhere",
     "description": "Allow Plugins URL function to create urls towards any directory.",
     "type": "wordpress-muplugin",
     "license": "MIT",
